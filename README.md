@@ -394,29 +394,6 @@ See the individual README files for comprehensive details:
 
 ---
 
-## Citation
-
-If you use these datasets in teaching or research, please cite:
-
-```bibtex
-@dataset{rafiei2025uxdatasets,
-  author = {Rafiei, Mohsen},
-  title = {UX Datasets Collection: Multi-method UX Research Datasets for Teaching HCI and Cognitive Psychology},
-  year = {2025},
-  url = {https://github.com/mohsen-rafiei/UX_datasets},
-  note = {Educational dataset collection}
-}
-```
-
-Or in APA format:
-```
-Rafiei, M. (2025). UX Datasets Collection: Multi-method UX research datasets for 
-teaching HCI and cognitive psychology [Dataset]. GitHub. 
-https://github.com/mohsen-rafiei/UX_datasets
-```
-
----
-
 ## License
 
 This dataset collection is provided for **educational and research purposes**.
