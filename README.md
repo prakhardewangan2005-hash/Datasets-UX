@@ -37,7 +37,7 @@ The datasets are designed to mirror real-world UX research with:
 
 ## Use Cases
 
-### For Enterprise & Customer Success Teams (Naya add kiya hai)
+### For Enterprise & Customer Success Teams 
 - Formulating data-driven "plays" to increase product adoption and retention.
 - Training Technical Account Managers (TAMs) and CSAMs on identifying user blockers via telemetry.
 - Building a shared understanding between technical engineering teams and client-facing specialists.
