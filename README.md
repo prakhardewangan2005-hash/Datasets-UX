@@ -33,6 +33,8 @@ The datasets are designed to mirror real-world UX research with:
   The multi-method nature of this data (combining qualitative diaries with quantitative telemetry) is designed to be communicated across internal teams (Engineering, Account Specialists, Cloud Architects) to ensure a shared understanding of customer needs.
 * 📈 **Business Impact & Partner Engagement:** By proactively addressing the drop-offs and accessibility gaps identified in these models, the data supports positive change within the product, aiming to increase feature adoption, reduce customer churn, and jointly develop mitigation plans with relevant partners.
 
+**[View the Customer Success Playbooks (00_Customer_Success_Playbooks)](00_Customer_Success_Playbooks/)** to see how this telemetry data is actively used to unblock customers, drive feature adoption, and collaborate with Engineering teams.
+
 ---
 
 ## Use Cases
