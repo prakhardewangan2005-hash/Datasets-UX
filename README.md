@@ -430,7 +430,7 @@ This dataset collection is provided for **educational and research purposes**.
 
 ## Author
 
-**Mohsen Rafiei, Ph.D.**
+**Prakhar Dewangan**
 
 Created this collection to support education in UX research, HCI, and cognitive psychology.
 
